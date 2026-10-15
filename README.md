@@ -13,7 +13,7 @@ Progetto di gruppo (4 persone) di analisi e progettazione, con modellazione UML,
 .
 ├── README.md
 ├── Progetto-Milano-Cortina-2026.pdf   # documento completo
-└── diagrammi/                         # immagini .jpeg dei diagrammi del PDF
+└── diagrammi/                         # immagini .jpg dei diagrammi del PDF
 ```
 
 Il PDF raccoglie tutti gli artefatti. Alcuni diagrammi (in particolare casi d'uso e classi di progettazione) risultano poco leggibili a causa delle dimensioni: le versioni ad alta risoluzione sono nella cartella [`diagrammi/`](diagrammi/), con un nome file che inizia con il numero del capitolo del PDF.
@@ -34,28 +34,28 @@ La colonna *Autore* indica se la parte è mia, svolta in comune o curata da un a
 
 | Cap. | Artefatto | Autore | Immagine |
 |---|---|---|---|
-| 1 | Diagramma dei casi d'uso | Altro componente | [01-casi-uso.jpeg](diagrammi/01-casi-uso.jpeg) |
-| 3 | SSD: AutenticaUtente (scenario principale) | In comune | [03-ssd-AutenticaUtente.jpeg](diagrammi/03-ssd-AutenticaUtente.jpeg) |
-| 3 | SSD: AutenticaUtente (estensione credenziali errate) | In comune | [03-ssd-AutenticaUtente-estensione.jpeg](diagrammi/03-ssd-AutenticaUtente-estensione.jpeg) |
-| 3 | SSD: AggiungiAllenamento | Altro componente | [03-ssd-AggiungiAllenamento.jpeg](diagrammi/03-ssd-AggiungiAllenamento.jpeg) |
-| 3 | SSD: CancellaAllenamento | Altro componente | [03-ssd-CancellaAllenamento.jpeg](diagrammi/03-ssd-CancellaAllenamento.jpeg) |
-| 3 | **SSD: EffettuaPrenotazione** | **Io** | [03-ssd-EffettuaPrenotazione.jpeg](diagrammi/03-ssd-EffettuaPrenotazione.jpeg) |
-| 3 | SSD: PartecipaAllenamento | Altro componente | [03-ssd-PartecipaAllenamento.jpeg](diagrammi/03-ssd-PartecipaAllenamento.jpeg) |
-| 5 | **Modello di dominio** | **Io (con un altro componente)** | [05-modello-dominio.jpeg](diagrammi/05-modello-dominio.jpeg) |
-| 6 | Diagramma di attività: GestioneAllenamenti | In comune | [06-attivita-GestioneAllenamenti.jpeg](diagrammi/06-attivita-GestioneAllenamenti.jpeg) |
-| 6 | Diagramma di attività: PrenotazioneBiglietto | In comune | [06-attivita-PrenotazioneBiglietto.jpeg](diagrammi/06-attivita-PrenotazioneBiglietto.jpeg) |
-| 6 | Diagramma di attività: AutenticaUtente | In comune | [06-attivita-AutenticaUtente.jpeg](diagrammi/06-attivita-AutenticaUtente.jpeg) |
-| 7 | Diagramma dei package | In comune | [07-package.jpeg](diagrammi/07-package.jpeg) |
-| 8 | **Diagramma delle classi di progettazione** | **Io (con un altro componente)** | [08-classi-progettazione.jpeg](diagrammi/08-classi-progettazione.jpeg) |
-| 9 | Sequenza: AutenticaUtente | In comune | [09-sequenza-AutenticaUtente.jpeg](diagrammi/09-sequenza-AutenticaUtente.jpeg) |
-| 9 | Sequenza: AggiungiAllenamento | Altro componente | [09-sequenza-AggiungiAllenamento.jpeg](diagrammi/09-sequenza-AggiungiAllenamento.jpeg) |
-| 9 | Sequenza: CancellaAllenamento | Altro componente | [09-sequenza-CancellaAllenamento.jpeg](diagrammi/09-sequenza-CancellaAllenamento.jpeg) |
-| 9 | **Sequenza: EffettuaPrenotazione** | **Io** | [09-sequenza-EffettuaPrenotazione.jpeg](diagrammi/09-sequenza-EffettuaPrenotazione.jpeg) |
-| 9 | Sequenza: PartecipaAllenamento | Altro componente | [09-sequenza-PartecipaAllenamento.jpeg](diagrammi/09-sequenza-PartecipaAllenamento.jpeg) |
-| 10 | Macchina a stati: Biglietto | In comune | [10-stati-Biglietto.jpeg](diagrammi/10-stati-Biglietto.jpeg) |
-| 10 | Macchina a stati: Attività | In comune | [10-stati-Attivita.jpeg](diagrammi/10-stati-Attivita.jpeg) |
-| 11 | Comunicazione: InserisciAttività | In comune | [11-comunicazione-InserisciAttivita.jpeg](diagrammi/11-comunicazione-InserisciAttivita.jpeg) |
-| 11 | Comunicazione: PubblicaAttività | In comune | [11-comunicazione-PubblicaAttivita.jpeg](diagrammi/11-comunicazione-PubblicaAttivita.jpeg) |
+| 1 | Diagramma dei casi d'uso | Altro componente | [01-casi-uso.jpg](diagrammi/01-casi-uso.jpg) |
+| 3 | SSD: AutenticaUtente (scenario principale) | In comune | [03-ssd-AutenticaUtente.jpg](diagrammi/03-ssd-AutenticaUtente.jpg) |
+| 3 | SSD: AutenticaUtente (estensione credenziali errate) | In comune | [03-ssd-AutenticaUtente-estensione.jpg](diagrammi/03-ssd-AutenticaUtente-estensione.jpg) |
+| 3 | SSD: AggiungiAllenamento | Altro componente | [03-ssd-AggiungiAllenamento.jpg](diagrammi/03-ssd-AggiungiAllenamento.jpg) |
+| 3 | SSD: CancellaAllenamento | Altro componente | [03-ssd-CancellaAllenamento.jpg](diagrammi/03-ssd-CancellaAllenamento.jpg) |
+| 3 | **SSD: EffettuaPrenotazione** | **Io** | [03-ssd-EffettuaPrenotazione.jpg](diagrammi/03-ssd-EffettuaPrenotazione.jpg) |
+| 3 | SSD: PartecipaAllenamento | Altro componente | [03-ssd-PartecipaAllenamento.jpg](diagrammi/03-ssd-PartecipaAllenamento.jpg) |
+| 5 | **Modello di dominio** | **Io (con un altro componente)** | [05-modello-dominio.jpg](diagrammi/05-modello-dominio.jpg) |
+| 6 | Diagramma di attività: GestioneAllenamenti | In comune | [06-attivita-GestioneAllenamenti.jpg](diagrammi/06-attivita-GestioneAllenamenti.jpg) |
+| 6 | Diagramma di attività: PrenotazioneBiglietto | In comune | [06-attivita-PrenotazioneBiglietto.jpg](diagrammi/06-attivita-PrenotazioneBiglietto.jpg) |
+| 6 | Diagramma di attività: AutenticaUtente | In comune | [06-attivita-AutenticaUtente.jpg](diagrammi/06-attivita-AutenticaUtente.jpg) |
+| 7 | Diagramma dei package | In comune | [07-package.jpg](diagrammi/07-package.jpg) |
+| 8 | **Diagramma delle classi di progettazione** | **Io (con un altro componente)** | [08-classi-progettazione.jpg](diagrammi/08-classi-progettazione.jpg) |
+| 9 | Sequenza: AutenticaUtente | In comune | [09-sequenza-AutenticaUtente.jpg](diagrammi/09-sequenza-AutenticaUtente.jpg) |
+| 9 | Sequenza: AggiungiAllenamento | Altro componente | [09-sequenza-AggiungiAllenamento.jpg](diagrammi/09-sequenza-AggiungiAllenamento.jpg) |
+| 9 | Sequenza: CancellaAllenamento | Altro componente | [09-sequenza-CancellaAllenamento.jpg](diagrammi/09-sequenza-CancellaAllenamento.jpg) |
+| 9 | **Sequenza: EffettuaPrenotazione** | **Io** | [09-sequenza-EffettuaPrenotazione.jpg](diagrammi/09-sequenza-EffettuaPrenotazione.jpg) |
+| 9 | Sequenza: PartecipaAllenamento | Altro componente | [09-sequenza-PartecipaAllenamento.jpg](diagrammi/09-sequenza-PartecipaAllenamento.jpg) |
+| 10 | Macchina a stati: Biglietto | In comune | [10-stati-Biglietto.jpg](diagrammi/10-stati-Biglietto.jpg) |
+| 10 | Macchina a stati: Attività | In comune | [10-stati-Attivita.jpg](diagrammi/10-stati-Attivita.jpg) |
+| 11 | Comunicazione: InserisciAttività | In comune | [11-comunicazione-InserisciAttivita.jpg](diagrammi/11-comunicazione-InserisciAttivita.jpg) |
+| 11 | Comunicazione: PubblicaAttività | In comune | [11-comunicazione-PubblicaAttivita.jpg](diagrammi/11-comunicazione-PubblicaAttivita.jpg) |
 
 I capitoli 2 (casi d'uso in formato dettagliato), 4 (contratti) e 12 (pattern) sono solo testuali e si trovano nel PDF.
 
